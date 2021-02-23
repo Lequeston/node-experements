@@ -11,3 +11,11 @@
     `yarn`
 
     `yarn start`
+
+- Статические файлы (static-path)
+
+    `cd ./static-path`
+
+    `yarn`
+
+    `yarn start`
