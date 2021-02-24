@@ -19,3 +19,11 @@
     `yarn`
 
     `yarn start`
+
+- Шаблонизаторы (template-engines)
+
+    `cd ./template-engines`
+
+    `yarn`
+
+    `yarn start`

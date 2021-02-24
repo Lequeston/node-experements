@@ -1,0 +1,12 @@
+<h1>{{title}}</h1>
+
+{{#if content}}
+<p>{{content}}</p>
+{{/if}}
+
+{{#if advantages}}
+  <h3>Advantages</h3>
+  {{> advantages}}
+{{/if}}
+
+<p>Advantages: {{getAdvantages}}</p>
