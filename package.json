@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "git-cz": "^4.7.6"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  }
+}
